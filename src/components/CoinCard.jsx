@@ -22,6 +22,5 @@ export const CoinCard = ({coin}) => {
                 Market Cap: {coin.market_cap.toLocaleString()}
             </p>
         </div>
-
     );
 }
